@@ -1,4 +1,4 @@
-table,row_id,type,message
+gitable,row_id,type,message
 users,2,ERROR,name is empty or whitespace-only
 users,3,ERROR,invalid or missing email ('')
 users,5,WARNING,created_at looks suspiciously old (1970-01-01T00:00:00Z)
