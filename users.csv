@@ -1,0 +1,11 @@
+id,name,email,age,created_at
+1,Alice Chen,alice.chen@example.com,29,2023-01-15T09:30:00Z
+2,,no.name@example.com,34,2023-02-20T14:00:00Z
+3,Bob O'Reilly,,41,2023-03-01T00:00:00Z
+4,田中太郎,tanaka@example.co.jp,25,2023-03-15T11:20:00Z
+5,Zoë Müller-Šimić,zoe@example.com,0,1970-01-01T00:00:00Z
+6,   ,whitespace@example.com,150,2023-04-10T08:00:00Z
+7,DROP TABLE users;--,injection.test@example.com,-5,2023-05-05T16:45:00Z
+8,Duplicate Dave,dave@example.com,30,2024-06-01T12:00:00Z
+9,Duplicate Dave,dave@example.com,30,2099-12-31T23:59:59Z
+10,Very Long Name Person,long@example.com,,2023-07-19T03:15:00Z

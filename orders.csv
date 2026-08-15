@@ -1,0 +1,11 @@
+id,user_id,product_name,quantity,price,order_date,status
+101,1,Wireless Mouse,2,19.99,2023-06-01T10:00:00Z,completed
+102,1,USB-C Cable,0,5.50,2023-06-02T10:00:00Z,pending
+103,2,Monitor 27",1,-199.99,2023-06-03T10:00:00Z,refunded
+104,3,,1,0.00,2023-06-04T10:00:00Z,cancelled
+105,999,Orphaned Order - Ghost User,3,45.00,2023-06-05T10:00:00Z,completed
+106,5,Precision Widget,1,0.001,2023-06-06T10:00:00Z,completed
+107,6,Bulk Order Item,999999,999999.99,2023-06-07T10:00:00Z,completed
+108,7,🎉 Party Pack 🎊,5,12.50,2023-06-08T10:00:00Z,completed
+109,4,Keyboard,1,79.99,1899-01-01T00:00:00Z,unknown_status
+110,10,Headphones,-1,89.99,2023-06-10T10:00:00Z,
